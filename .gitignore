@@ -1,0 +1,16 @@
+*.workspace
+*.pdsbak
+*.as
+*.cmf
+*.elf
+*.hxl
+*.hxl
+*.sdb
+*.sym
+*.d
+*.p1
+*.pre
+*.lst
+*.obj
+*.rlf
+.vscode
